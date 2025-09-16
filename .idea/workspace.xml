@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6f000c-72b1-4861-8204-1382677165a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/Sayakhov_Daniel_R.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/Sayahkov_Daneil" afterDir="false" />
+    <list default="true" id="1a6f000c-72b1-4861-8204-1382677165a3" name="Changes" comment="zaSVOZAxar">
+      <change beforePath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sayakhov_Daniel_R/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +59,23 @@
       <option name="presentableId" value="Default" />
       <updated>1757945826434</updated>
     </task>
+    <task id="LOCAL-00001" summary="artur">
+      <option name="closed" value="true" />
+      <created>1758020261769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758020261769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zaSVOZAxar">
+      <option name="closed" value="true" />
+      <created>1758020554864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758020554864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,10 +83,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="artur" />
+    <MESSAGE value="zaSVOZAxar" />
+    <option name="LAST_COMMIT_MESSAGE" value="zaSVOZAxar" />
   </component>
 </project>
